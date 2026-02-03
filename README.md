@@ -146,4 +146,9 @@ The evaluation reports:
 This project is intended for research, experimentation, and
 semi-automatic annotation workflows.
 
+## Improvements
+
+ - [ ] Add a fine-tuning option;
+ - [ ] Add automatic bbox based on the similarity of the feature maps unities (ProtoCAN)
+
 
